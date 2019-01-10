@@ -1,0 +1,1155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="Sokoban:jar" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d798927c-5bba-4b88-b652-4106837105fb" name="Default" comment="">
+      <change afterPath="$APPLICATION_CONFIG_DIR$/consoles/db/2ce80c52-a19b-497c-92b4-8481cc109ac7/console.sql" afterDir="false" />
+      <change afterPath="$APPLICATION_CONFIG_DIR$/consoles/db/cd0f5daf-d2df-4cbf-ad34-c39499da27f1/console.sql" afterDir="false" />
+      <change afterPath="$USER_HOME$/.PhpStorm2017.3/config/consoles/db/00f80440-51fd-4ce3-aa54-d0d2f3a6cca0/console.sql" afterDir="false" />
+      <change afterPath="$USER_HOME$/.PhpStorm2017.3/config/options/databaseDrivers.xml" afterDir="false" />
+      <change afterPath="$USER_HOME$/.PhpStorm2017.3/config/options/php.xml" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module 4/ComicBookReader/src/main/java/com/arman/ComicBookPanel.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module 4/ComicBookReader/src/main/java/com/arman/ComicBookReader.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module 4/ComicBookReader/src/main/java/com/arman/FileTypeDetector.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module 4/ComicBookReader/src/main/java/com/arman/Main.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module 4/ta-work/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module 4/ta-work/.idea/dictionaries/Coen.xml" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module 4/ta-work/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module 4/ta-work/src/JDBCassignment.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module 4/ta-work/src/ex1.sql" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module 4/ta-work/src/ex2.sql" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module 4/ta-work/src/ex3.sql" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module 4/ta-work/src/ex4.sql" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module 6/AI/Snake/.gitignore" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module 6/AI/Snake/README.txt" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module 6/AI/Snake/agent.py" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module 6/AI/Snake/board.py" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module 6/AI/Snake/gameobjects.py" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module 6/AI/Snake/main.py" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module 6/AI/Snake/move.py" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module 6/AI/Snake/snake.py" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/CC/.idea/libraries/concurrent_junit_1_0.xml" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/CC/.idea/libraries/hamcrest_core_1_3.xml" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/CC/.idea/libraries/jcip_annotations.xml" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/CC/.idea/libraries/junit_4_12.xml" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/CC/pp/block2/cc/AST.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/CC/pp/block2/cc/NonTerm.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/CC/pp/block2/cc/ParseException.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/CC/pp/block2/cc/Parser.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/CC/pp/block2/cc/Symbol.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/CC/pp/block2/cc/SymbolFactory.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/CC/pp/block2/cc/Term.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/CC/pp/block2/cc/antlr/Sentence.g4" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/CC/pp/block2/cc/antlr/SentenceConverter.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/CC/pp/block2/cc/antlr/SentenceCounter.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/CC/pp/block2/cc/antlr/SentenceMod.g4" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/CC/pp/block2/cc/antlr/SentenceMod.tokens" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/CC/pp/block2/cc/antlr/SentenceModBaseListener.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/CC/pp/block2/cc/antlr/SentenceModLexer.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/CC/pp/block2/cc/antlr/SentenceModLexer.tokens" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/CC/pp/block2/cc/antlr/SentenceModListener.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/CC/pp/block2/cc/antlr/SentenceModParser.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/CC/pp/block2/cc/antlr/SentenceModUsage.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/CC/pp/block2/cc/antlr/SentenceUsage.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/CC/pp/block2/cc/antlr/arithmetic/Arithmetic.g4" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/CC/pp/block2/cc/antlr/arithmetic/Arithmetic.tokens" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/CC/pp/block2/cc/antlr/arithmetic/ArithmeticBaseListener.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/CC/pp/block2/cc/antlr/arithmetic/ArithmeticLexer.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/CC/pp/block2/cc/antlr/arithmetic/ArithmeticLexer.tokens" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/CC/pp/block2/cc/antlr/arithmetic/ArithmeticListener.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/CC/pp/block2/cc/antlr/arithmetic/ArithmeticParser.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/CC/pp/block2/cc/antlr/arithmetic/ArithmeticUsage.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/CC/pp/block2/cc/antlr/arithmetic/Calculator.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/CC/pp/block2/cc/ll/BasicLLCalc.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/CC/pp/block2/cc/ll/GenericLLParser.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/CC/pp/block2/cc/ll/Grammar.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/CC/pp/block2/cc/ll/Grammars.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/CC/pp/block2/cc/ll/If.g4" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/CC/pp/block2/cc/ll/LLCalc.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/CC/pp/block2/cc/ll/LRQ.g4" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/CC/pp/block2/cc/ll/LrqParser.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/CC/pp/block2/cc/ll/Rule.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/CC/pp/block2/cc/ll/Sentence.g4" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/CC/pp/block2/cc/ll/SentenceParser.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/CC/pp/block2/cc/test/GenericLLParserTest.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/CC/pp/block2/cc/test/LLCalcTest.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/CC/pp/block2/cc/test/SentenceConverterTest.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/CC/pp/block2/cp/annotation/Point.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/CC/pp/block2/cp/annotation/RandomDrift.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/CC/pp/block2/cp/annotation/RandomPointTest.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/CC/pp/block2/cp/listings/UnsafeSequence.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/CC/pp/block2/cp/queue/LinkedQueue.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/CC/pp/block2/cp/queue/Queue.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/CC/pp/block2/cp/queue/QueueEmptyException.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/CC/pp/block2/cp/queue/SafeLinkedQueue.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/CC/pp/block2/cp/tests/LinkedQueueTest.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/CC/pp/block2/cp/tests/SimpleDateFormatTest.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/CC/pp/block2/cp/tests/ThreadedTimerPoolTest.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/CC/pp/block2/cp/tests/ThreadedTimerTest.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/CC/pp/block2/cp/tests/UnsafeSequenceTest.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/CC/pp/block2/cp/timer/ThreadedTimer.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/CC/pp/block2/cp/timer/ThreadedTimerPool.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/CC/pp/block3/cc/antlr/Calc.g4" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/CC/pp/block3/cc/antlr/CalcAttr.g4" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/CC/pp/block3/cc/antlr/CalcVocab.g4" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/CC/pp/block3/cc/antlr/Calculator.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/CC/pp/block3/cc/antlr/T.g4" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/CC/pp/block3/cc/antlr/TAttr.g4" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/CC/pp/block3/cc/antlr/TConverter.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/CC/pp/block3/cc/antlr/TVocab.g4" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/CC/pp/block3/cc/antlr/Type.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/CC/pp/block3/cc/symbol/BasicSymbolTable.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/CC/pp/block3/cc/symbol/DeclUse.g4" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/CC/pp/block3/cc/symbol/DeclUseConverter.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/CC/pp/block3/cc/symbol/SymbolTable.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/CC/pp/block3/cc/symbol/declexamplecorrect.txt" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/CC/pp/block3/cc/symbol/declexamplewrong.txt" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/CC/pp/block3/cc/tabular/HTMLListener.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/CC/pp/block3/cc/tabular/SimpleErrorListener.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/CC/pp/block3/cc/tabular/Tabular.g4" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/CC/pp/block3/cc/tabular/tabular-1.tex" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/CC/pp/block3/cc/tabular/tabular-2.tex" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/CC/pp/block3/cc/tabular/tabular-3.tex" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/CC/pp/block3/cc/tabular/tabular-4.tex" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/CC/pp/block3/cc/tabular/tabular-5.tex" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/CC/pp/block3/cc/test/CalcTest.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/CC/pp/block3/cc/test/DeclUseTest.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/CC/pp/block3/cc/test/SymbolTableTest.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/CC/pp/block3/cc/test/TTest.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/CC/pp/block3/cp/hotel/Hotel.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/CC/pp/block3/cp/hotel/Person.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/CC/pp/block3/cp/jml/Point.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/CC/pp/block3/cp/lockcoupling/ConcurrentLinkedList.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/CC/pp/block3/cp/lockcoupling/List.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/CC/pp/block3/cp/mapreduce/MapReduceBase.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/CC/pp/block3/cp/synchronizers/BasicLock.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/CC/pp/block3/cp/synchronizers/CompareAndSet.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/CC/pp/block3/cp/synchronizers/DekkerLock.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/CC/pp/block3/cp/tests/ListTest.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/CC/pp/block3/cp/tests/LockTest.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/CC/pp/block4/cc/ErrorListener.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/CC/pp/block4/cc/cfg/BottomUpCFGBuilder.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/CC/pp/block4/cc/cfg/Fragment.g4" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/CC/pp/block4/cc/cfg/FragmentBaseListener.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/CC/pp/block4/cc/cfg/FragmentLexer.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/CC/pp/block4/cc/cfg/FragmentListener.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/CC/pp/block4/cc/cfg/FragmentParser.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/CC/pp/block4/cc/cfg/Graph.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/CC/pp/block4/cc/cfg/Node.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/CC/pp/block4/cc/cfg/TopDownCFGBuilder.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/CC/pp/block4/cc/iloc/Calc.g4" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/CC/pp/block4/cc/iloc/CalcCompiler.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/CC/pp/block4/cc/iloc/Samples.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/CC/pp/block4/cc/iloc/max.iloc" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/CC/pp/block4/cc/test/CalcCompilerTest.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/Documents/Utwente/Module_8/CC/pp/block4/cc/test/FindTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Game/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Game/src/main/java/com/arman/GamePlay.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Game/src/main/java/com/arman/GamePlayState.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Game/src/main/java/com/arman/main/Direction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Game/src/main/java/com/arman/main/Move.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JPlay/src/main/java/com/arman/jfx/Album.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JPlay/src/main/java/com/arman/jfx/EqualizerPresets.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JPlay/src/main/java/com/arman/jfx/FXMLController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JPlay/src/main/java/com/arman/jfx/FXMLTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JPlay/src/main/java/com/arman/jfx/FXPlayList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JPlay/src/main/java/com/arman/jfx/PlayButton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JPlay/src/main/java/com/arman/jfx/PlayList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JPlay/src/main/java/com/arman/jfx/PreviousButton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JPlay/src/main/java/com/arman/jfx/RepeatButton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JPlay/src/main/java/com/arman/jfx/RootLayout.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JPlay/src/main/java/com/arman/jfx/SeekBar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JPlay/src/main/java/com/arman/jfx/SkipButton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JPlay/src/main/java/com/arman/jfx/SmartSplashPlayer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JPlay/src/main/java/com/arman/jfx/Song.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JPlay/src/main/java/com/arman/jfx/SplashPlayer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JPlay/src/main/java/com/arman/jfx/SplashScreen.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JPlay/src/main/java/com/arman/jfx/ThemeSpinner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JPlay/src/main/java/com/arman/jfx/VolumeSlider.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JPlay/src/main/java/com/arman/jfx/darktheme.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JPlay/src/main/java/com/arman/jfx/dialog.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JPlay/src/main/java/com/arman/jfx/test/SplashScreen.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JPlay/src/main/java/com/arman/jfx/util/IconConstants.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JPlay/src/main/java/com/arman/jfx/util/ImageViewer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JPlay/src/main/java/com/arman/jfx/util/KeepAwakeThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JPlay/src/main/java/com/arman/jfx/util/TimeFormatter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JPlay/src/test/java/com/arman/jfx/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ObjectViewer3D/src/main/java/com/arman/geom/Matrix4D.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ObjectViewer3D/src/main/java/com/arman/geom/Quaternion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ObjectViewer3D/src/main/java/com/arman/geom/Vector2D.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ObjectViewer3D/src/main/java/com/arman/main/Camera.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ObjectViewer3D/src/main/java/com/arman/main/MeshLoader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ObjectViewer3D/src/main/java/com/arman/main/Scene.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ObjectViewer3D/src/main/java/com/arman/main/Time.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ObjectViewer3D/src/main/java/com/arman/main/View.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ObjectViewer3D/src/main/java/com/arman/models/Edge.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ObjectViewer3D/src/main/java/com/arman/models/Face.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ObjectViewer3D/src/main/java/com/arman/models/Model.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ObjectViewer3D/src/main/java/com/arman/models/Vertex.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ObjectViewer3D/src/main/java/com/arman/parsers/MaterialParser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ObjectViewer3D/src/main/java/com/arman/pipelines/ApplicationPipeline.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ObjectViewer3D/src/main/java/com/arman/pipelines/ClippingPipeline.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ObjectViewer3D/src/main/java/com/arman/pipelines/GeometryPipeline.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ObjectViewer3D/src/main/java/com/arman/pipelines/GraphicsPipeline.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ObjectViewer3D/src/main/java/com/arman/pipelines/LightingPipeline.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ObjectViewer3D/src/main/java/com/arman/pipelines/Pipeline.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ObjectViewer3D/src/main/java/com/arman/pipelines/ProjectionPipeline.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ObjectViewer3D/src/main/java/com/arman/pipelines/RasterizationPipeline.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ObjectViewer3D/src/main/java/com/arman/projectors/Orthographic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ObjectViewer3D/src/main/java/com/arman/projectors/Projection.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ObjectViewer3D/src/main/java/com/arman/rasterizers/TriangleRasterizer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ObjectViewer3D/src/main/java/com/arman/renderers/BasicRenderer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ObjectViewer3D/src/main/java/com/arman/renderers/BoundingBox.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ObjectViewer3D/src/main/java/com/arman/renderers/EdgeData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ObjectViewer3D/src/main/java/com/arman/renderers/GlobalEdgeTable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ObjectViewer3D/src/main/java/com/arman/renderers/Graphics.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ObjectViewer3D/src/main/java/com/arman/renderers/Renderer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ObjectViewer3D/src/main/java/com/arman/renderers/ScanConverter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ObjectViewer3D/src/main/java/com/arman/renderers/ScanLine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ObjectViewer3D/src/main/java/com/arman/renderers/ScanLineRenderer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ObjectViewer3D/src/main/java/com/arman/renderers/ZBuffer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ObjectViewer3D/src/main/java/com/arman/renderers/ZBufferRenderer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ObjectViewer3D/src/main/java/com/arman/util/ExtraMath.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/PhpstormProjects/PHPLogin/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$USER_HOME$/PhpstormProjects/PHPLogin/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$USER_HOME$/PhpstormProjects/PHPLogin/error.php" afterDir="false" />
+      <change afterPath="$USER_HOME$/PhpstormProjects/PHPLogin/includes/db_connect.php" afterDir="false" />
+      <change afterPath="$USER_HOME$/PhpstormProjects/PHPLogin/includes/functions.php" afterDir="false" />
+      <change afterPath="$USER_HOME$/PhpstormProjects/PHPLogin/includes/login.php" afterDir="false" />
+      <change afterPath="$USER_HOME$/PhpstormProjects/PHPLogin/includes/logout.php" afterDir="false" />
+      <change afterPath="$USER_HOME$/PhpstormProjects/PHPLogin/includes/psl-config.php" afterDir="false" />
+      <change afterPath="$USER_HOME$/PhpstormProjects/PHPLogin/includes/register.inc.php" afterDir="false" />
+      <change afterPath="$USER_HOME$/PhpstormProjects/PHPLogin/includes/test.php" afterDir="false" />
+      <change afterPath="$USER_HOME$/PhpstormProjects/PHPLogin/index.php" afterDir="false" />
+      <change afterPath="$USER_HOME$/PhpstormProjects/PHPLogin/js/forms.js" afterDir="false" />
+      <change afterPath="$USER_HOME$/PhpstormProjects/PHPLogin/js/sha512.js" afterDir="false" />
+      <change afterPath="$USER_HOME$/PhpstormProjects/PHPLogin/register.php" afterDir="false" />
+      <change afterPath="$USER_HOME$/PhpstormProjects/PHPLogin/register_success.php" afterDir="false" />
+      <change afterPath="$USER_HOME$/PycharmProjects/GeneticPool/Ball.py" afterDir="false" />
+      <change afterPath="$USER_HOME$/PycharmProjects/GeneticPool/Collisions.py" afterDir="false" />
+      <change afterPath="$USER_HOME$/PycharmProjects/GeneticPool/Cue.py" afterDir="false" />
+      <change afterPath="$USER_HOME$/PycharmProjects/GeneticPool/Game.py" afterDir="false" />
+      <change afterPath="$USER_HOME$/PycharmProjects/GeneticPool/GameEvents.py" afterDir="false" />
+      <change afterPath="$USER_HOME$/PycharmProjects/GeneticPool/Physics.py" afterDir="false" />
+      <change afterPath="$USER_HOME$/PycharmProjects/GeneticPool/Rules.py" afterDir="false" />
+      <change afterPath="$USER_HOME$/PycharmProjects/GeneticPool/Table.py" afterDir="false" />
+      <change afterPath="$USER_HOME$/PycharmProjects/GeneticPool/Window.py" afterDir="false" />
+      <change beforePath="$USER_HOME$/Downloads/Download-v3.zip" beforeDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="Sokoban" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="450">
+      <file leaf-file-name="Main.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/arman/sokoban/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="221">
+              <caret line="18" column="46" selection-start-line="18" selection-start-column="46" selection-end-line="18" selection-end-column="46" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="238">
+              <caret line="14" column="11" lean-forward="true" selection-start-line="14" selection-start-column="11" selection-end-line="14" selection-end-column="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="LevelReader.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/arman/sokoban/configure/LevelReader.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="714">
+              <caret line="51" column="24" selection-start-line="51" selection-start-column="24" selection-end-line="51" selection-end-column="24" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="levels.json" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/resources/config/levels.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="1359" selection-start-column="1359" selection-end-column="1359" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="FxmlFile" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>list()</find>
+      <find>list</find>
+      <find>toInt</find>
+      <find>load</find>
+      <find>System.out</find>
+      <find>put</find>
+      <find>VK_SHIFT</find>
+      <find>Stopwatch.</find>
+      <find>SCALE</find>
+      <find>Star</find>
+      <find>&quot;0&quot;</find>
+      <find>Mode</find>
+      <find>&quot;Configu</find>
+      <find>getPlayer()</find>
+      <find>System.out.</find>
+      <find>LevelReader.getLevelResult</find>
+      <find>&quot;</find>
+      <find>System.</find>
+      <find>LevelReader.getLev</find>
+      <find>System.ou</find>
+      <find>isCompleted</find>
+      <find>ImageIO.read</find>
+      <find>res/</find>
+      <find>resources/</find>
+      <find>.wav</find>
+      <find>throw new ParseException</find>
+      <find>drawSelector</find>
+      <find>timeinmillis</find>
+      <find>false</find>
+      <find>&quot;1&quot;</find>
+    </findStrings>
+    <replaceStrings>
+      <replace />
+      <replace>true</replace>
+    </replaceStrings>
+    <dirStrings>
+      <dir>C:\Users\Coen\IdeaProjects\Sokoban\src\com\arman\sokoban\model\level</dir>
+    </dirStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$USER_HOME$" />
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/res/levels/79" />
+        <option value="$PROJECT_DIR$/res/levels/80" />
+        <option value="$PROJECT_DIR$/res/levels/81" />
+        <option value="$PROJECT_DIR$/res/levels/82" />
+        <option value="$PROJECT_DIR$/res/levels/83" />
+        <option value="$PROJECT_DIR$/res/levels/84" />
+        <option value="$PROJECT_DIR$/res/levels/85" />
+        <option value="$PROJECT_DIR$/res/levels/86" />
+        <option value="$PROJECT_DIR$/res/levels/87" />
+        <option value="$PROJECT_DIR$/res/levels/88" />
+        <option value="$PROJECT_DIR$/res/levels/89" />
+        <option value="$PROJECT_DIR$/res/levels/90" />
+        <option value="$PROJECT_DIR$/res/levels/91" />
+        <option value="$PROJECT_DIR$/res/levels/92" />
+        <option value="$PROJECT_DIR$/res/levels/93" />
+        <option value="$PROJECT_DIR$/res/levels/94" />
+        <option value="$PROJECT_DIR$/res/levels/95" />
+        <option value="$PROJECT_DIR$/res/levels/96" />
+        <option value="$PROJECT_DIR$/res/levels/97" />
+        <option value="$PROJECT_DIR$/res/levels/98" />
+        <option value="$PROJECT_DIR$/res/levels/99" />
+        <option value="$PROJECT_DIR$/res/levels/100" />
+        <option value="$PROJECT_DIR$/src/com/arman/sokoban/view/gamestate/OptionsState.java" />
+        <option value="$PROJECT_DIR$/src/com/arman/sokoban/view/gamestate/LevelSelectState.java" />
+        <option value="$PROJECT_DIR$/out/production/Sokoban/META-INF/MANIFEST.MF" />
+        <option value="$PROJECT_DIR$/src/com/arman/sokoban/view/GamePanel.java" />
+        <option value="$PROJECT_DIR$/src/com/arman/sokoban/Main.java" />
+        <option value="$PROJECT_DIR$/src/com/arman/sokoban/configure/LevelReader.java" />
+        <option value="$PROJECT_DIR$/src/com/arman/sokoban/configure/LevelWriter.java" />
+        <option value="$PROJECT_DIR$/src/com/arman/sokoban/configure/Configurations.java" />
+        <option value="$PROJECT_DIR$/src/com/arman/sokoban/controller/audio/AudioPlayer.java" />
+        <option value="$PROJECT_DIR$/src/com/arman/sokoban/model/assets/Spritesheet.java" />
+        <option value="$PROJECT_DIR$/src/com/arman/sokoban/view/gamestate/LevelState.java" />
+        <option value="$PROJECT_DIR$/src/com/arman/sokoban/model/level/LevelManager.java" />
+        <option value="$PROJECT_DIR$/src/com/arman/sokoban/model/level/LevelLoader.java" />
+        <option value="$PROJECT_DIR$/src/com/arman/sokoban/util/FileUtils.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/arman/sokoban/configure/Props.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/arman/sokoban/model/assets/Spritesheet.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/arman/sokoban/view/gamestate/LevelState.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/arman/sokoban/view/GamePanel.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/arman/sokoban/Main.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/arman/sokoban/controller/audio/AudioPlayer.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/arman/sokoban/configure/Configurations.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/arman/sokoban/model/level/LevelManager.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/arman/sokoban/model/level/LevelLoader.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/arman/sokoban/configure/LevelWriter.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/arman/sokoban/util/FileUtils.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/arman/sokoban/configure/LevelReader.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/target/classes/config/levels.json" />
+        <option value="$PROJECT_DIR$/src/main/resources/config/levels.json" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsFlowSettings">
+    <service-enabled>false</service-enabled>
+    <exe-path />
+    <annotation-enable>false</annotation-enable>
+    <other-services-enabled>false</other-services-enabled>
+  </component>
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="Sokoban" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="Sokoban" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-9" />
+    <option name="width" value="978" />
+    <option name="height" value="1089" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>Cucumber</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Sokoban" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Sokoban" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="AndroidView" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="SearchEverywhereHistoryKey" value="Clip&#9;PSI&#9;JAVA://javax.sound.sampled.Clip&#10;keyevent&#9;PSI&#9;JAVA://java.awt.event.KeyEvent" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="database.main" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.arman.sokoban.view.gamestate" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Coen\IdeaProjects\Sokoban\src\main\resources" />
+      <recent name="C:\Users\Coen\IdeaProjects\Sokoban" />
+      <recent name="C:\Users\Coen\IdeaProjects\Sokoban\src\com\arman\sokoban\util" />
+      <recent name="C:\Users\Coen\IdeaProjects\Sokoban\out\production\Sokoban\com\arman\sokoban\util" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Coen\IdeaProjects\Sokoban\out\production\Sokoban\com\arman\sokoban\util" />
+      <recent name="C:\Users\Coen\IdeaProjects\Sokoban\res\config" />
+      <recent name="C:\Users\Coen\IdeaProjects\Sokoban\res\assets\walls" />
+      <recent name="C:\Users\Coen\IdeaProjects\Sokoban\res\assets\floors" />
+      <recent name="C:\Users\Coen\IdeaProjects\Sokoban\res\assets\crates" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+    </configuration>
+    <configuration name="Configurations" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.arman.sokoban.configure.Configurations" />
+      <module name="Sokoban" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.arman.sokoban.configure.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="LevelReader" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.arman.sokoban.configure.LevelReader" />
+      <module name="Sokoban" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.arman.sokoban.configure.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="LevelWriter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.arman.sokoban.configure.LevelWriter" />
+      <module name="Sokoban" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.arman.sokoban.configure.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.arman.sokoban.Main" />
+      <module name="Sokoban" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.arman.sokoban.configure.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="Stopwatch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.arman.sokoban.controller.Stopwatch" />
+      <module name="Sokoban" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.arman.sokoban.controller.audio.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <properties />
+      <listeners />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file id="idea.log" enabled="true" />
+    </configuration>
+    <list>
+      <item itemvalue="Application.Main" />
+      <item itemvalue="Application.Stopwatch" />
+      <item itemvalue="Application.Configurations" />
+      <item itemvalue="Application.LevelWriter" />
+      <item itemvalue="Application.LevelReader" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.LevelWriter" />
+        <item itemvalue="Application.LevelReader" />
+        <item itemvalue="Application.Configurations" />
+        <item itemvalue="Application.Stopwatch" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\Coen\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d798927c-5bba-4b88-b652-4106837105fb" name="Default" comment="" />
+      <created>1501183770279</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1501183770279</updated>
+      <workItem from="1501183773791" duration="1000" />
+      <workItem from="1501342492507" duration="10234000" />
+      <workItem from="1501356066973" duration="9087000" />
+      <workItem from="1501426024452" duration="81414000" />
+      <workItem from="1501607163078" duration="46598000" />
+      <workItem from="1501785535188" duration="42386000" />
+      <workItem from="1502021966910" duration="2490000" />
+      <workItem from="1502292703490" duration="10193000" />
+      <workItem from="1506334425080" duration="71000" />
+      <workItem from="1506334618588" duration="1176000" />
+      <workItem from="1506414796388" duration="1024000" />
+      <workItem from="1506624763912" duration="80000" />
+      <workItem from="1507889136903" duration="336000" />
+      <workItem from="1507890107463" duration="190000" />
+      <workItem from="1510578304532" duration="1707000" />
+      <workItem from="1510580131790" duration="1339000" />
+      <workItem from="1514554504369" duration="1151000" />
+      <workItem from="1514561640272" duration="1637000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="211114000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-modules-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="0" width="782" height="871" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="bottom" id="TODO" order="7" weight="0.45357144" />
+      <window_info anchor="bottom" id="Tool Output" order="8" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.5043243" side_tool="true" weight="0.3392857" />
+      <window_info anchor="right" id="Maven Projects" order="9" weight="0.27600554" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="11" />
+      <window_info anchor="bottom" id="Run" order="3" sideWeight="0.49567568" weight="0.4147881" />
+      <window_info anchor="bottom" id="Terminal" order="12" weight="0.4409378" />
+      <window_info id="Designer" order="3" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19113573" />
+      <window_info anchor="bottom" id="Statistic" order="9" />
+      <window_info anchor="right" id="Database" order="4" weight="0.32933578" />
+      <window_info anchor="bottom" id="ANTLR Preview" order="8" weight="0.32912534" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.24972972" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Favorites" order="5" side_tool="true" weight="0.32972974" />
+      <window_info anchor="bottom" id="Debug" order="4" weight="0.39880952" />
+      <window_info id="Capture Tool" order="2" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.32732192" />
+      <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
+      <window_info id="Image Layers" order="6" />
+      <window_info anchor="bottom" id="Docker" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="5" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="1" />
+      <window_info anchor="right" id="Theme Preview" order="6" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Data View" order="8" />
+      <window_info anchor="bottom" id="Find" order="2" weight="0.3297619" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="Designer" order="3" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info id="Image Layers" order="6" />
+      <window_info anchor="bottom" id="Run" order="3" sideWeight="0.49567568" visible="true" weight="0.4154762" />
+      <window_info anchor="bottom" id="Cvs" order="5" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info id="Capture Tool" order="2" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Favorites" order="5" side_tool="true" weight="0.32972974" />
+      <window_info anchor="bottom" id="Terminal" order="12" />
+      <window_info anchor="bottom" id="Docker" order="0" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.5043243" side_tool="true" weight="0.3392857" />
+      <window_info anchor="bottom" id="Statistic" order="9" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Data View" order="9" />
+      <window_info anchor="bottom" id="Version Control" order="11" show_stripe_button="false" />
+      <window_info anchor="right" id="Maven Projects" order="4" weight="0.32972974" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.34648648" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.32738096" />
+      <window_info anchor="right" id="Database" order="5" />
+      <window_info anchor="bottom" id="Message" order="1" />
+      <window_info anchor="bottom" id="TODO" order="7" weight="0.45357144" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+      <window_info anchor="right" id="Theme Preview" order="7" />
+      <window_info id="Structure" order="1" weight="0.24972972" />
+      <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
+      <window_info anchor="bottom" id="Find" order="2" weight="0.3297619" />
+      <window_info anchor="bottom" id="Debug" order="4" weight="0.39880952" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/arman/sokoban/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="325">
+          <caret line="18" column="46" selection-start-line="18" selection-start-column="46" selection-end-line="18" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2000">
+          <caret line="80" column="17" lean-forward="true" selection-start-line="80" selection-start-column="17" selection-end-line="80" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/arman/sokoban/configure/LevelReader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1050">
+          <caret line="51" column="24" lean-forward="true" selection-start-line="51" selection-start-column="24" selection-end-line="51" selection-end-column="24" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/config/levels.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="1473" selection-start-column="1473" selection-end-column="1473" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/levels/96" />
+    <entry file="file://$PROJECT_DIR$/res/levels/97" />
+    <entry file="file://$PROJECT_DIR$/res/levels/98" />
+    <entry file="file://$PROJECT_DIR$/res/levels/99" />
+    <entry file="file://$PROJECT_DIR$/res/levels/100" />
+    <entry file="file://$PROJECT_DIR$/res/config/levels.json" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/arman/sokoban/view/gamestate/OptionsState.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="121">
+          <caret line="214" column="39" selection-start-line="214" selection-start-column="39" selection-end-line="214" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Software Systems/Java/jdk1.8.0_111/src.zip!/java/awt/SplashScreen.java" />
+    <entry file="jar://C:/Software Systems/Java/jdk1.8.0_111/src.zip!/java/io/FileReader.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/arman/sokoban/model/assets/Player.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="203">
+          <caret line="83" column="34" selection-start-line="83" selection-start-column="34" selection-end-line="83" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/out/production/Sokoban/META-INF/MANIFEST.MF" />
+    <entry file="jar://C:/Software Systems/Java/jdk1.8.0_111/src.zip!/java/io/File.java" />
+    <entry file="jar://C:/Software Systems/Java/jdk1.8.0_111/src.zip!/java/io/InputStream.java" />
+    <entry file="jar://C:/Software Systems/Java/jdk1.8.0_111/src.zip!/java/io/Reader.java" />
+    <entry file="jar://C:/Software Systems/Java/jdk1.8.0_111/src.zip!/java/io/InputStreamReader.java" />
+    <entry file="jar://C:/Software Systems/Java/jdk1.8.0_111/src.zip!/java/lang/ClassLoader.java" />
+    <entry file="jar://C:/Software Systems/Java/jdk1.8.0_111/src.zip!/java/net/URLStreamHandler.java" />
+    <entry file="jar://C:/Software Systems/Java/jdk1.8.0_111/src.zip!/java/net/URL.java" />
+    <entry file="jar://C:/Software Systems/Java/jdk1.8.0_111/src.zip!/java/nio/file/FileSystem.java" />
+    <entry file="jar://C:/Software Systems/Java/jdk1.8.0_111/src.zip!/java/nio/file/Paths.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/arman/sokoban/view/gamestate/LevelState.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="925">
+          <caret line="54" column="13" lean-forward="true" selection-start-line="54" selection-start-column="13" selection-end-line="54" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/arman/sokoban/model/assets/Spritesheet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="88" column="60" selection-start-line="88" selection-start-column="60" selection-end-line="88" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/arman/sokoban/view/gamestate/GameState.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="15" column="22" lean-forward="true" selection-start-line="15" selection-start-column="22" selection-end-line="15" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/arman/sokoban/view/gamestate/GameStateManager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2650">
+          <caret line="131" column="18" selection-start-line="131" selection-start-column="18" selection-end-line="131" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/arman/sokoban/util/GraphicsUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="11" selection-start-line="11" selection-end-line="17" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Software Systems/Java/jdk1.8.0_111/src.zip!/java/awt/Component.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/arman/sokoban/view/GamePanel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2325">
+          <caret line="104" column="21" selection-start-line="104" selection-start-column="21" selection-end-line="104" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/arman/sokoban/controller/InputHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="278">
+          <caret line="182" column="23" selection-start-line="182" selection-start-column="23" selection-end-line="182" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/arman/sokoban/view/gamestate/MenuState.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1925">
+          <caret line="86" column="48" selection-start-line="86" selection-start-column="48" selection-end-line="86" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/arman/sokoban/configure/Props.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="9" column="41" selection-start-line="9" selection-start-column="41" selection-end-line="9" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Software Systems/Java/jdk1.8.0_111/src.zip!/javax/sound/sampled/Clip.java" />
+    <entry file="jar://C:/Software Systems/Java/jdk1.8.0_111/src.zip!/javax/sound/sampled/AudioSystem.java" />
+    <entry file="jar://C:/Development/Java/jdk1.8.0_111/src.zip!/java/lang/String.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="299">
+          <caret line="2176" column="18" selection-start-line="2176" selection-start-column="18" selection-end-line="2176" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Development/Java/jdk1.8.0_111/src.zip!/java/lang/Object.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="495">
+          <caret line="234" column="18" selection-start-line="234" selection-start-column="18" selection-end-line="234" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/googlecode/json-simple/json-simple/1.1.1/json-simple-1.1.1.jar!/org/json/simple/parser/JSONParser.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="71" column="18" selection-start-line="71" selection-start-column="18" selection-end-line="71" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/arman/sokoban/configure/LevelWriter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="50">
+          <caret line="26" column="45" lean-forward="true" selection-start-line="26" selection-start-column="45" selection-end-line="26" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/arman/sokoban/util/FileUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="22" column="13" lean-forward="true" selection-start-line="22" selection-start-column="13" selection-end-line="22" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/arman/sokoban/model/level/LevelLoader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="50">
+          <caret line="14" column="48" selection-start-line="14" selection-start-column="48" selection-end-line="14" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/arman/sokoban/model/level/LevelManager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="290">
+          <caret line="166" lean-forward="true" selection-start-line="166" selection-end-line="166" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/arman/sokoban/configure/Configurations.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="388">
+          <caret line="59" column="32" lean-forward="true" selection-start-line="59" selection-start-column="32" selection-end-line="59" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/arman/sokoban/controller/audio/AudioPlayer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="185">
+          <caret line="35" column="40" selection-start-line="35" selection-start-column="40" selection-end-line="35" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/arman/sokoban/view/gamestate/LevelSelectState.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="309">
+          <caret line="256" column="33" selection-start-line="256" selection-start-column="33" selection-end-line="256" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/arman/sokoban/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="18" column="46" selection-start-line="18" selection-start-column="46" selection-end-line="18" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/target/classes/config/levels.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="111" selection-start-column="111" selection-end-column="111" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/arman/sokoban/configure/LevelReader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="714">
+          <caret line="51" column="24" selection-start-line="51" selection-start-column="24" selection-end-line="51" selection-end-column="24" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/config/levels.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="1359" selection-start-column="1359" selection-end-column="1359" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="11" lean-forward="true" selection-start-line="14" selection-start-column="11" selection-end-line="14" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <last-edited>Sokoban:jar</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.5" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="Copyright.UI">
+        <settings>
+          <last-edited>campoe</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>platform</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>Sokoban</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>com.googlecode.json-simple:json-simple:1.1.1</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
